@@ -4,8 +4,8 @@ scanme.py is a Python-based network port scanning tool designed to scan a target
 
 <h1>Features:</h1>
 
-  -Multi-Threaded Scanning: Allows faster scanning by running multiple threads simultaneously.
-  -Customizable Timeout: Users can set the timeout for each scan.
-  -Multiple Scan Types: Supports several types of port scans (TCP, SYN, UDP, etc.).
-   -User-Friendly Output: Results are displayed in a table format using PrettyTable and logged for later review.
-   -Error Handling: Handles invalid inputs, network errors, and common issues gracefully.
+  -Multi-Threaded Scanning: Allows faster scanning by running multiple threads simultaneously.\n
+  -Customizable Timeout: Users can set the timeout for each scan.\n
+  -Multiple Scan Types: Supports several types of port scans (TCP, SYN, UDP, etc.).\n
+  -User-Friendly Output: Results are displayed in a table format using PrettyTable and logged for later review.\n
+  -Error Handling: Handles invalid inputs, network errors, and common issues gracefully.\n
